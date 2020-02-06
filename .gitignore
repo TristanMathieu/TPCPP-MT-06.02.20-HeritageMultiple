@@ -1,0 +1,8 @@
+#gitignore CPP
+
+/ExoFinit
+/HeritageMultiple/.vs
+/HeritageMultiple/Debug
+/HeritageMultiple/HeritageMultiple/Debug
+
+
